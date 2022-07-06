@@ -1,2 +1,2 @@
 ## TIL
-### Today I Learned
+### 하루하루 배운 것을 정리
