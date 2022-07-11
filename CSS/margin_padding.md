@@ -2,7 +2,7 @@
 
 * `margin` 속성은 바깥쪽 여백을 의미한다
 * `padding` 속성은 안쪽 여백을 의마한다
-* `margin` 과 `padding` 속성은 `border`를 경계로 나뉜다.
+* `margin` 과 `padding` 속성은 `border`를 경계로 나뉜다.  
 ![margin,padding구조](https://ofcourse.kr/images/attach/margin_padding.png)
 
 ## 사용 예시
