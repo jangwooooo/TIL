@@ -140,23 +140,29 @@ test {
 
 1. 스크립트 길이와 가독성 면에서 gradle이 우세하다.
 2. 빌드와 테스트 실행 결과 gradle이 더 빠르다. (gradle은 캐시를 사용하기 떄문에 테스트 반복 시 차이가 더 커진다.)
-3. 의존성이 늘어날 수록 성능과 스크립트 품질의 차이가 심해질 것이다.  
-   <br>
-   maven은 프로젝트가 커질수록 빌드 스크립트의 내용이 길어지고 가독성이 떨어진다.  
-   반면에 gradle은 훨씬 적은 양의 스크립트로 짧고 간결하게 작성할 수 있다.  
-   <br>
-   maven이 정적인 형태의 XML 기반으로 작성되어 동적인 빌드를 적용할 경우 어려움이 많다면,  
-   gradle은 Groovy를 사용하기 때문에 동적인 빌드는 Groovy 스크립트로 플러그인을 호출하거나 직접 코드를 짜면 됩니다.  
-   <br>
-   maven의 경우 멀티 프로젝트에서 특정 설정을 다른 모듈에서 사용하려면 상속을 받아야 하지만,  
-   gradle은 설정 주입 방식을 사용하기 때문에 멀티 프로젝트에 매우 적합하다.  
-   <br>
-   아래 사진은 gradle과 maven의 속도 비교 표이다.  
-   **Gradle vs Maven : Performance Comparison**
-   ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdKtmEU%2Fbtq8bsvQoKc%2FDjilAAylpcHLJFRtXQCd01%2Fimg.png)
-   ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbS9riQ%2Fbtq8aN1zMjC%2FKn1fpOCrvzF1lWKkoDNy4K%2Fimg.png)
-   ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEGqWA%2Fbtq8dulsWv5%2FRPudjkBsjzmp0gKd3Qk0z1%2Fimg.png)
-   ![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F1me5I%2Fbtq8aOznGOG%2FMMblyASIa9QaGkmi9xEw30%2Fimg.png)
-   <br>
+3. 의존성이 늘어날 수록 성능과 스크립트 품질의 차이가 심해질 것이다.
+
+<br>
+maven은 프로젝트가 커질수록 빌드 스크립트의 내용이 길어지고 가독성이 떨어진다.  
+반면에 gradle은 훨씬 적은 양의 스크립트로 짧고 간결하게 작성할 수 있다.
+
+<br>
+maven이 정적인 형태의 XML 기반으로 작성되어 동적인 빌드를 적용할 경우 어려움이 많다면,  
+gradle은 Groovy를 사용하기 때문에 동적인 빌드는 Groovy 스크립트로 플러그인을 호출하거나 직접 코드를 짜면 된다.
+
+<br>
+maven의 경우 멀티 프로젝트에서 특정 설정을 다른 모듈에서 사용하려면 상속을 받아야 하지만,  
+gradle은 설정 주입 방식을 사용하기 때문에 멀티 프로젝트에 매우 적합하다.
+
+<br>
+아래 사진은 gradle과 maven의 속도 비교 표이다.
+
+**Gradle vs Maven : Performance Comparison**
+
+![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdKtmEU%2Fbtq8bsvQoKc%2FDjilAAylpcHLJFRtXQCd01%2Fimg.png)
+![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbS9riQ%2Fbtq8aN1zMjC%2FKn1fpOCrvzF1lWKkoDNy4K%2Fimg.png)
+![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEGqWA%2Fbtq8dulsWv5%2FRPudjkBsjzmp0gKd3Qk0z1%2Fimg.png)
+![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F1me5I%2Fbtq8aOznGOG%2FMMblyASIa9QaGkmi9xEw30%2Fimg.png)
+<br>
 
 과거에는 maven을 많이 사용했었지만 요즘은 gradle로 넘어오는 추세이다.
