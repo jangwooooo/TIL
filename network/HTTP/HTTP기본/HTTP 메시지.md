@@ -6,7 +6,7 @@
 
 <br>
 
-![img](https://kimsangyeob.github.io/images/http-web-basic/http-messages.png)
+<img src="https://kimsangyeob.github.io/images/http-web-basic/http-messages.png" width="300" height="300"/>
 
 <br>
 
