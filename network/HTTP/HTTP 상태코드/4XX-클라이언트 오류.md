@@ -1,6 +1,6 @@
-# 4XX-클라이언트 오류
+# 4xx-클라이언트 오류
 
-### 4XX (Client Error)
+### 4xx (Client Error)
 
 클라이언트 오류
 
@@ -11,7 +11,7 @@
 
 <br>
 
-### 4XX오류의 종류
+### 4xx오류의 종류
 
 - 400 Bad Request
 - 401 Unauthorized

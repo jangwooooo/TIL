@@ -1,6 +1,6 @@
-# 5XX-서버에러
+# 5xx-서버에러
 
-### 5XX (Server Error)
+### 5xx (Server Error)
 
 서버 오류
 
@@ -9,7 +9,7 @@
 
 <br>
 
-### 5XX에러의 종류
+### 5xx에러의 종류
 
 - 500 Internal Server Error
 - 503 Service Unavailable

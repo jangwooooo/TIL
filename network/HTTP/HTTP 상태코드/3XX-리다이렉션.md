@@ -1,6 +1,6 @@
-# 3XX-리다이렉션
+# 3xx-리다이렉션
 
-### 3XX (Redirection)
+### 3xx (Redirection)
 
 요청을 완료하기 위해 유저 에이전트의 추가 조치 필요
 

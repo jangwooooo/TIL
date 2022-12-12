@@ -1,4 +1,4 @@
-# 2XX - 성공
+# 2xx - 성공
 
 ### 2xx (Successful)
 
