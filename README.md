@@ -3,7 +3,7 @@
 
 **Java**  
 - [SOLID 원칙](Java/SOLID.md)
-- [자바의 특징](Java/자바의 특징.md)
+- [자바의 특징](<Java/자바의 특징.md>)
 
 **Spring**
 - [@Controller와 @RestController의 차이](Spring/@Controller-vs-@RestController.md)
