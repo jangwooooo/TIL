@@ -18,6 +18,7 @@
 - [Spring](Spring/spring.md)
 - [Servlet](Spring/Servlet.md)
 - [JPA란](Spring/JPA/JPA.md)
+- [EntityManager와 영속성 컨텍스트](<Spring/JPA/EntityManager와 영속성 컨텍스트.md>)
 
 **network**
 
