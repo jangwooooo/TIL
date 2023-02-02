@@ -1,11 +1,14 @@
 ## TIL
- 하루하루 배운 것을 정리
 
-**Java**  
+하루하루 배운 것을 정리
+
+**Java**
+
 - [SOLID 원칙](Java/SOLID.md)
 - [자바의 특징](<Java/자바의 특징.md>)
 
 **Spring**
+
 - [@Controller와 @RestController의 차이](Spring/@Controller-vs-@RestController.md)
 - [DI](Spring/DI.md)
 - [IoC](Spring/IoC.md)
@@ -14,9 +17,11 @@
 - [Spring boot](<Spring/Spring boot.md>)
 - [Spring](Spring/spring.md)
 - [Servlet](Spring/Servlet.md)
+- [JPA란](Spring/JPA/JPA.md)
 
 **network**
-- [HTTP API를 만들어보자](<network/HTTP/HTTP-메서드/HTTP-API를-만들어보자.md>)
+
+- [HTTP API를 만들어보자](network/HTTP/HTTP-메서드/HTTP-API를-만들어보자.md)
 - [HTTP 메서드 종류](<network/HTTP/HTTP 메서드/HTTP 메서드 종류.md>)
 - [HTTP 메서드의 속성](<network/HTTP/HTTP 메서드/HTTP 메서드의 속성.md>)
 - [HTTP 상태코드 소개](<network/HTTP/HTTP 상태코드/HTTP 상태코드 소개.md>)
@@ -33,7 +38,7 @@
 - [HTTP 메시지](<network/HTTP/HTTP기본/HTTP 메시지.md>)
 - [stateful, stateless](<network/HTTP/HTTP기본/stateful, stateless.md>)
 - [모든 것이 HTTP](<network/HTTP/HTTP기본/모든 것이 HTTP.md>)
-- [비연결성](<network/HTTP/HTTP기본/비연결성.md>)
+- [비연결성](network/HTTP/HTTP기본/비연결성.md)
 - [클라이언트 서버 구조](<network//HTTP/HTTP기본/클라이언트 서버 구조.md>)
 - [HTTP 헤더 개요](<network/HTTP/HTTP헤더-일반 헤더/HTTP 헤더 개요.md>)
 - [인증](<network/HTTP/HTTP헤더-일반 헤더/인증.md>)
