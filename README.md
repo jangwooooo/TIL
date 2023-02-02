@@ -10,8 +10,8 @@
 - [DI](Spring/DI.md)
 - [IoC](Spring/IoC.md)
 - [Lombok](Spring/Lombok.md)
-- [Maven과 Gradle 비교](Spring/Maven과Gradle.md)
-- [Spring boot](Spring/Springboot.md)
+- [Maven과 Gradle 비교](<Spring/Maven과 Gradle.md>)
+- [Spring boot](<Spring/Spring boot.md>)
 - [Spring](Spring/spring.md)
 - [Servlet](Spring/Servlet.md)
 
