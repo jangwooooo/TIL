@@ -152,6 +152,8 @@ private String name;
 
 name 컬럼에 값을 입력해도 DB에는 값이 들어가지 않는다.
 
+<br>
+
 **updatable**
 
 ```java
@@ -160,6 +162,8 @@ private String name;
 ```
 
 name 컬럼의 값을 변경해도 변경값이 적용되지 않는다.
+
+<br>
 
 **nullable**
 
@@ -170,6 +174,8 @@ private String name;
 
 name 컬럼에는 not null이 적용된다.
 
+<br>
+
 **unique**
 
 ```java
@@ -179,6 +185,8 @@ private String name;
 
 name 컬럼에는 unique가 적용된다.
 
+<br>
+
 **columnDefinition**
 
 ```java
@@ -187,6 +195,8 @@ private String name;
 ```
 
 name 컬럼의 Datatype은 VARCHAR(255)가 되고 not null이 적용된다.
+
+<br>
 
 **length**
 
