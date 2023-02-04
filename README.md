@@ -34,7 +34,7 @@
 - [검증 헤더와 조건부 요청2](<network/HTTP/HTTP 헤더 - 캐시와 조건부 요청/검증 헤더와 조건부 요청2.md>)
 - [캐시 기본 동작](<network/HTTP/HTTP 헤더 - 캐시와 조건부 요청/캐시 기본 동작.md>)
 - [캐시 무효화](<network/HTTP/HTTP 헤더 - 캐시와 조건부 요청/캐시 무효화.md>)
-- [캐시와 조건부 요청 헤](<network/HTTP/HTTP 헤더 - 캐시와 조건부 요청/캐시와 조건부 요청 헤더.md>)
+- [캐시와 조건부 요청 헤더](<network/HTTP/HTTP 헤더 - 캐시와 조건부 요청/캐시와 조건부 요청 헤더.md>)
 - [프록시 캐시](<network/HTTP/HTTP 헤더 - 캐시와 조건부 요청/프록시 캐시.md>)
 - [HTTP 메시지](<network/HTTP/HTTP기본/HTTP 메시지.md>)
 - [stateful, stateless](<network/HTTP/HTTP기본/stateful, stateless.md>)
