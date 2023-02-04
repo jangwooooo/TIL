@@ -19,6 +19,7 @@
 - [Servlet](Spring/Servlet.md)
 - [JPA란](Spring/JPA/JPA.md)
 - [EntityManager와 영속성 컨텍스트](<Spring/JPA/EntityManager와 영속성 컨텍스트.md>)
+- [Entity매핑 어노테이션 정리/예제](<Spring/JPA/JPA Entity매핑 어노테이션.md>)
 
 **network**
 
