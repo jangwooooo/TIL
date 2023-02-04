@@ -17,9 +17,9 @@
 - [Spring boot](<Spring/Spring boot.md>)
 - [Spring](Spring/spring.md)
 - [Servlet](Spring/Servlet.md)
-- [JPA란](Spring/JPA/JPA.md)
-- [EntityManager와 영속성 컨텍스트](<Spring/JPA/EntityManager와 영속성 컨텍스트.md>)
-- [Entity매핑 어노테이션 정리/예제](<Spring/JPA/JPA Entity매핑 어노테이션.md>)
+- [[JPA] JPA란](Spring/JPA/JPA.md)
+- [[JPA] EntityManager와 영속성 컨텍스트](<Spring/JPA/EntityManager와 영속성 컨텍스트.md>)
+- [[JPA] Entity매핑 어노테이션 정리/예제](<Spring/JPA/JPA Entity매핑 어노테이션.md>)
 
 **network**
 
