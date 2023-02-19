@@ -2,8 +2,6 @@
 
 Spring에서는 컨트롤러를 지정해주기 위한 어노테이션으로 @Controller와 @Restcontroller를 사용합니다.
 
-<br>
-
 ## @Controller
 
 전통적인 Spring MVC의 컨트롤러인 @Controller는 주로 `View`를 반환하기 위해 사용한다.  
