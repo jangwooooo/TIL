@@ -22,6 +22,10 @@
 - [[JPA] Entity매핑 어노테이션 정리/예제](<Spring/JPA/JPA Entity매핑 어노테이션.md>)
 - [[JPA] Entity 연관관계 매핑 정리](<Spring/JPA/JPA Entity 연관관계매핑.md>)
 
+**database**
+
+- [트랜잭션이란](database/transaction.md)
+
 **network**
 
 - [HTTP API를 만들어보자](network/HTTP/HTTP-메서드/HTTP-API를-만들어보자.md)
