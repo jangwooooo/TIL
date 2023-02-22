@@ -26,6 +26,7 @@
 
 - [트랜잭션이란](database/transaction.md)
 - [Index란](database/index.md)
+- [Pagination](database/pagination.md)
 
 **network**
 
