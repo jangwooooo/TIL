@@ -21,6 +21,7 @@
 - [[JPA] EntityManager와 영속성 컨텍스트](<Spring/JPA/EntityManager와 영속성 컨텍스트.md>)
 - [[JPA] Entity매핑 어노테이션 정리/예제](<Spring/JPA/JPA Entity매핑 어노테이션.md>)
 - [[JPA] Entity 연관관계 매핑 정리](<Spring/JPA/JPA Entity 연관관계매핑.md>)
+- [[JPA] 영속성 전이, 고아 객체 제거](Spring/JPA/cascade.md)
 
 **database**
 
