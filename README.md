@@ -68,3 +68,4 @@
 **data-format**
 
 - [JSON](data-format/JSON.md)
+- [XML](data-format/XML.md)
