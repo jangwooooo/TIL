@@ -28,6 +28,7 @@
 - [트랜잭션이란](database/transaction.md)
 - [Index란](database/index.md)
 - [Pagination](database/pagination.md)
+- [[MySQL] char,varchar 비교](database/char-vs-varchar.md)
 
 **network**
 
